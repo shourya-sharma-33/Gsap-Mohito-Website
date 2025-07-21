@@ -1,2 +1,3 @@
-amazing gsap website
-followed tutorial on javascript mastry
+
+gsap website and i followed tutorial on javascript mastry
+
